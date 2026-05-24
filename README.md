@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**meowpurrpur/meowpurrpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about me
 
-Here are some ideas to get you started:
+```txt
+theo / @meowpurrpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+self-taught developer with experience across
+backend systems, frontend applications,
+networking, infrastructure, and databases.
+
+i enjoy building things, learning new stacks,
+and figuring out how systems work.
+```
+
+---
+
+## tech stack
+
+### languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,cs,go,python,js,ts" />
+</p>
+
+### frameworks & tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron,tauri,express,postgres" />
+</p>
+
+### infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,clion" />
+</p>
+
+---
+
+## github stats
+
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=meowpurrpur&theme=catppuccin&hide_title=true" alt="GitHub Stats Card" />
+  <br></br>
+<img src="https://ghstats.dev/api/langs?username=meowpurrpur&theme=catppuccin&max_langs=5" alt="Top Languages" />
+</div>
