@@ -16,7 +16,6 @@ and figuring out how systems work.
 
 ## note
 
-```
 i primarily use my self-hosted Forgejo instance for development.
 
 you can find my projects at:
@@ -24,7 +23,6 @@ https://git.imtheo.lol/theo
 
 public repositories are mirrored to GitHub for accessibility,
 but issues and pull requests should be opened on my Forgejo instance instead.
-```
 
 ---
 
