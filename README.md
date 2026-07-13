@@ -14,25 +14,17 @@ and figuring out how systems work.
 
 ---
 
-## tech stack
+## note
 
-### languages
+```
+i primarily use my self-hosted Forgejo instance for development.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,rust,cs,go,python,js,ts" />
-</p>
+you can find my projects at:
+https://git.imtheo.lol/theo
 
-### frameworks & tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron,tauri,express,postgres" />
-</p>
-
-### infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,clion" />
-</p>
+public repositories are mirrored to GitHub for accessibility,
+but issues and pull requests should be opened on my Forgejo instance instead.
+```
 
 ---
 
