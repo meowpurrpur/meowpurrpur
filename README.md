@@ -29,7 +29,7 @@ but issues and pull requests should be opened on my Forgejo instance instead.
 ## github stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=meowpurrpur&theme=catppuccin&hide_title=true" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=meowpurrpur&theme=catppuccin&hide_title=true&size=compact" alt="GitHub Stats Card" />
   <br></br>
-<img src="https://ghstats.dev/api/langs?username=meowpurrpur&theme=catppuccin&max_langs=5" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=meowpurrpur&theme=catppuccin&max_langs=5" alt="Top Languages" />
 </div>
